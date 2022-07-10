@@ -1,0 +1,5 @@
+# pip install bs4
+# pip install selenium
+# pip install webdriver-manager
+# pip install pyqt5
+# pip install pyinstaller / exe : pyinstaller -w -F main.py
